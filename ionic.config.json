@@ -1,0 +1,8 @@
+{
+  "name": "DoNow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6abcf63e"
+}
