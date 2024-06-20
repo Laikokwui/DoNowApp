@@ -1,4 +1,4 @@
-# do-now
+# DoNow Application
 
 Simple to do list app to display list of tasks.
 
